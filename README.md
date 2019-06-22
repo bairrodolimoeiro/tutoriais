@@ -27,7 +27,7 @@ não dropam quando quebrados e você perderá os seus blocos de proteção.
  
 A proteção é feita da seguinte forma: 
 
-Os blocos devem ser dispostos da seguinte forma:
+Os blocos devem ser dispostos da forma a seguir:
 Um quadrado ou retângulo completo com os tijolos infestados, como na foto:
 ![](https://imgur.com/WXf8rIw)
 
@@ -47,4 +47,9 @@ o terreno é seu, é por que está protegido.
 
 Comandos para interação com o terreno:
 
+- /rp delete             -> deletar o terreno
+- /rp member             -> adicionar um membro ao terreno
+- /rp admin              -> adicionar um dono ao terreno
+- /rp flag               -> editar permissões do terreno
+ 
 
