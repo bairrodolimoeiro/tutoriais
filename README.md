@@ -7,6 +7,14 @@ Insira o item a ser vendido dentro do baú e coloque a placa em cima, seguindo o
 
 ![Exemplo placa](https://github.com/bairrodolimoeiro/tutoriais/blob/master/5717c207-96ef-42b1-8aad-f6aaa074f23b.jpg)
 
+Onde
+- ? -> Será completado com o nome do item que está dentro do baú
+- B -> Preço de compra
+- S -> Preço de venda
+
+Obs: A primeira linha da placa deve ficar em branco.
+
+
 O modelo final deve ficar assim:
 
 ![Baú pronto](https://github.com/bairrodolimoeiro/tutoriais/blob/master/34f9cc44-c1d2-4420-9f5e-edc79df604b4.jpg?raw=true)
